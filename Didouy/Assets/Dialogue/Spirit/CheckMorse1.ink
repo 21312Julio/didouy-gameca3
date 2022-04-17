@@ -1,1 +1,0 @@
-Did this bookcase always had a keyhole?
