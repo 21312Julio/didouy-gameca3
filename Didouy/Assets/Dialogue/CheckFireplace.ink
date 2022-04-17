@@ -1,0 +1,1 @@
+A fireplace, but it's turned off.
