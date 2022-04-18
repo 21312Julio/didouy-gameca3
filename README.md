@@ -8,7 +8,7 @@
 
 # Links
 - Game Build | https://drive.google.com/drive/folders/14ezPEwobMpr86PV_kZII-ZICKqvcF02Z?usp=sharing
-- Youtube Walkthrough | 
+- Youtube Walkthrough | https://youtu.be/N31LrdBuiIo
 
 # Introduction
 In this game you play as man who wakes up without any memories inside a house. Your only objective so far is to escape it, but you'll do so with the help of other spirits that reside inside there. Solve the puzzles and discover the truth!
