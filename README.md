@@ -13,7 +13,7 @@
 # Introduction
 In this game you play as man who wakes up without any memories inside a house. Your only objective so far is to escape it, but you'll do so with the help of other spirits that reside inside there. Solve the puzzles and discover the truth!
 
-The story of the game is not entirely finished, and the current version available only let's the player go through the first stage of the game, as in the future the outside map could be added as well to give the story closure.
+The story of the game is not entirely finished, and the current version available only let's the player go through the first stage of the game, as in the future the outside map could be added as well to give the story closure. Make sure to set the aspect ratio to: Full HD (1920 x 1080) in order for the assets to be place correctly.
 
 # Art
 The art style in this game was based on retro games, mostly 1-bit art and the collor pallette used was from this [website](https://lospec.com/palette-list/noire-truth). 
